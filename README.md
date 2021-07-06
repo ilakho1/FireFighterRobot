@@ -1,2 +1,2 @@
-# FireFighterRobot
-Android App for Industrial Fire Fighter Robot
+# Flask_Server
+Live video streaming App using flask server
